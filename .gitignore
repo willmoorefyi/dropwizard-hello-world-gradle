@@ -1,0 +1,20 @@
+# idea ignores
+
+.idea/
+*.iml
+
+# gradle ignores
+
+.gradle/
+build/
+tmp/
+gradle-app.setting
+
+# jvm crash logs
+
+hs_err_pid*
+
+# mac ignores
+
+.DS_Store
+
